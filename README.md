@@ -1,7 +1,7 @@
 # Django Satellite Inventory System 🚀
 
 ## Project Overview
-This is a simple Django web application for managing **satellite components inventory.  
+This is a simple Django web application for managing satellite components inventory.  
 It allows users to view, add, and manage components such as sensors, antennas, and modules.
 
 
